@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528361157 source:d:\chaikov\projects\cforum\main.c
+	<stdio.h>
+
+1529398616 source:d:\chaikov\projects\cforum\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	<vector>
+	<iterator>
+
