@@ -2,9 +2,10 @@
 1528361157 source:d:\chaikov\projects\cforum\main.c
 	<stdio.h>
 
-1529398616 source:d:\chaikov\projects\cforum\main.cpp
+1529476604 source:d:\chaikov\projects\cforum\main.cpp
 	<stdio.h>
 	<math.h>
+	<string.h>
 	<iostream>
 	<iomanip>
 	<fstream>
